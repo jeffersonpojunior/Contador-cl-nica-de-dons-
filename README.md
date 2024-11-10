@@ -1,2 +1,2 @@
-# Contador-cl-nica-de-dons-
-Projeto desenvolvido para a Igreja Batista Memorial de Belém
+# Contador-clinica-de-dons-
+Projeto que desenvolvi para a escalação dos dons dos membros da Igreja Batista Memorial de Belém
